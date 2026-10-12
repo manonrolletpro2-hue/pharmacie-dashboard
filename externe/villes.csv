@@ -1,0 +1,82 @@
+Ville;Latitude;Longitude;Département;Code région;Région;Zone scolaire;Capteurs pollens;Stations météo
+Agen;44.1941;0.6253;47;75;Nouvelle-Aquitaine;Zone A;AGEN;7
+Aix-en-Provence;43.5352;5.4416;13;93;Provence-Alpes-Côte d'Azur;Zone B;AIXENPRO;11
+Ajaccio;41.9376;8.7389;20;94;Corse;Corse;AJACCIO;10
+Amberieu;45.9617;5.3557;01;84;Auvergne-Rhône-Alpes;Zone A;AMBERIEU;12
+Amiens;49.8972;2.3006;80;32;Hauts-de-France;Zone B;AMIENS;2
+Angers;47.4709;-0.5475;49;52;Pays de la Loire;Zone B;ANGERS;7
+Angouleme;45.6493;0.1645;16;75;Nouvelle-Aquitaine;Zone A;ANGOULEM;7
+Annecy;45.904;6.1331;74;84;Auvergne-Rhône-Alpes;Zone A;ANNECY;18
+Annemasse;46.1988;6.2364;74;84;Auvergne-Rhône-Alpes;Zone A;ANNEMASS;13
+Antony;48.7325;2.3139;91;11;Île-de-France;Zone C;ANTONY;32
+Aurillac;44.9255;2.4391;15;84;Auvergne-Rhône-Alpes;Zone A;AURILLAC;7
+Avignon;43.9203;4.8051;84;93;Provence-Alpes-Côte d'Azur;Zone B;AVIGNON;6
+Bagnols;44.1587;4.6165;30;76;Occitanie;Zone C;BAGNOLS;12
+Bart;47.4856;6.7698;25;27;Bourgogne-Franche-Comté;Zone A;BART;10
+Bayonne;43.496;-1.4806;64;75;Nouvelle-Aquitaine;Zone A;BAYONNE;8
+Besancon;47.2412;6.0204;25;27;Bourgogne-Franche-Comté;Zone A;BESANCON;10
+Bordeaux;44.8012;-0.617;33;75;Nouvelle-Aquitaine;Zone A;BORDPESS;8
+Bourg en Bresse;46.21;5.2208;01;84;Auvergne-Rhône-Alpes;Zone A;BOURGENB;7
+Bourges;47.0844;2.3964;18;24;Centre-Val de Loire;Zone B;BOURGES;8
+Bourgoin-Jallieu;45.5897;5.2769;38;84;Auvergne-Rhône-Alpes;Zone A;BOURGOIN;6
+Brest;48.4021;-4.5284;29;53;Bretagne;Zone B;BREST;5
+Brussieu;45.7523;4.5385;69;84;Auvergne-Rhône-Alpes;Zone A;BRUSSLAN;24
+Caen;49.2156;-0.3555;14;28;Normandie;Zone B;CAEN;7
+Castres;43.5981;2.2423;81;76;Occitanie;Zone C;CASTRES;6
+Chalon-sur-Saone;46.8108;4.8528;71;27;Bourgogne-Franche-Comté;Zone A;CHALON-S;8
+Chambery;45.5972;5.8768;73;84;Auvergne-Rhône-Alpes;Zone A;CHAMBERY;20
+Chaumont;48.1157;5.1441;52;44;Grand Est;Zone B;CHAUMONT;6
+Cholet;47.0667;-0.8683;49;52;Pays de la Loire;Zone B;CHOLET;7
+Clermont-Ferrand;45.7588;3.094;63;84;Auvergne-Rhône-Alpes;Zone A;CLERMONT;9
+Dijon;47.3192;5.0658;21;27;Bourgogne-Franche-Comté;Zone A;DIJON;4
+Dinan;48.4448;-2.0458;22;53;Bretagne;Zone B;DINAN;3
+Gap;44.5576;6.0761;05;93;Provence-Alpes-Côte d'Azur;Zone B;GAP;10
+Genas;45.7322;5.0058;69;84;Auvergne-Rhône-Alpes;Zone A;GENAS;10
+Gleize;45.9965;4.7008;69;84;Auvergne-Rhône-Alpes;Zone A;GLEIZE;19
+Gonesse;48.9927;2.4505;75;11;Île-de-France;Zone C;GONESSE;23
+Grenoble;45.1858;5.7546;38;84;Auvergne-Rhône-Alpes;Zone A;GRENOBLE;35
+La Roche-sur-Yon;46.6734;-1.4034;85;52;Pays de la Loire;Zone B;LAROCHE-;3
+La Rochelle;46.1699;-1.1516;17;75;Nouvelle-Aquitaine;Zone A;LAROCHL;7
+Le Mans;48.0134;0.1747;72;52;Pays de la Loire;Zone B;LEMANS;4
+Le Puy en Velay;45.0482;3.8779;43;84;Auvergne-Rhône-Alpes;Zone A;LEPUYENV;10
+Lille;50.6023;3.0385;59;32;Hauts-de-France;Zone B;LILLE;4
+Limoges;45.8597;1.2913;87;75;Nouvelle-Aquitaine;Zone A;LIMOGES;8
+Lyon;45.7279;4.8247;69;84;Auvergne-Rhône-Alpes;Zone A;LYON;16
+Macon;46.3099;4.8316;71;27;Bourgogne-Franche-Comté;Zone A;MACON;10
+Mareuil;45.4519;0.4539;24;75;Nouvelle-Aquitaine;Zone A;MAREUIL;5
+Marseille;43.2867;5.3794;13;93;Provence-Alpes-Côte d'Azur;Zone B;MARSEILL;9
+Melun;48.5421;2.6554;77;11;Île-de-France;Zone C;MELUN;8
+Metz;49.1042;6.2301;57;44;Grand Est;Zone B;METZ;7
+Mont-de-Marsan;43.893;-0.495;40;75;Nouvelle-Aquitaine;Zone A;MTMARSAN;5
+Montlucon;46.3444;2.6054;03;84;Auvergne-Rhône-Alpes;Zone A;MONTLUCO;4
+Montpellier;43.6306;3.8537;34;76;Occitanie;Zone C;MONTPELL;7
+Mulhouse;47.7237;7.3444;68;44;Grand Est;Zone B;MULHOUSE;7
+Nancy;48.686;6.1749;54;44;Grand Est;Zone B;NANCY;4
+Nantes;47.2974;-1.497;44;52;Pays de la Loire;Zone B;NANTES;5
+Narbonne;43.179;3.0032;11;76;Occitanie;Zone C;NARBONNE;7
+Nevers;46.9794;3.1226;58;27;Bourgogne-Franche-Comté;Zone A;NEVERS;11
+Nice;43.6987;7.2719;06;93;Provence-Alpes-Côte d'Azur;Zone B;NICE2;14
+Niort;46.3237;-0.4648;79;75;Nouvelle-Aquitaine;Zone A;NIORT;9
+Nîmes;43.8331;4.3498;30;76;Occitanie;Zone C;NIMES;11
+Orleans;47.8353;1.9195;45;24;Centre-Val de Loire;Zone B;ORLEANS;5
+Paris;48.8407;2.3112;75;11;Île-de-France;Zone C;PARIS;31
+Pau;43.2961;-0.3692;64;75;Nouvelle-Aquitaine;Zone A;PAU;9
+Poitiers;46.5806;0.3427;86;75;Nouvelle-Aquitaine;Zone A;POITIERS;6
+Pontivy;48.095;-2.9121;56;53;Bretagne;Zone B;PONTIVY;7
+Périgueux;45.195;0.7318;24;75;Nouvelle-Aquitaine;Zone A;PERIGUEU;2
+Reims;49.2428;4.0743;51;44;Grand Est;Zone B;REIMS;7
+Rennes;48.1161;-1.7023;35;53;Bretagne;Zone B;RENNES;5
+Roanne;46.034;4.0725;42;84;Auvergne-Rhône-Alpes;Zone A;ROANNE;16
+Rouen;49.4619;1.1336;76;28;Normandie;Zone B;ROUEN;5
+Roussillon;45.3706;4.8121;42;84;Auvergne-Rhône-Alpes;Zone A;ROUSSILL;19
+Saclay;48.7108;2.1483;91;11;Île-de-France;Zone C;SACLAY;27
+Saint-Brieuc;48.4938;-2.7517;22;53;Bretagne;Zone B;ST-BRIEU;3
+Saint-Etienne;45.4222;4.3937;42;84;Auvergne-Rhône-Alpes;Zone A;SAINT-ET;25
+Sainte-Foy-lès-Lyon;45.7494;4.7966;69;84;Auvergne-Rhône-Alpes;Zone A;STEFOY;18
+Strasbourg;48.576;7.7435;67;44;Grand Est;Zone B;STRASBOU;5
+Toulon;43.1243;5.9755;83;93;Provence-Alpes-Côte d'Azur;Zone B;TOULON;8
+Toulouse;43.5785;1.4492;31;76;Occitanie;Zone C;TOULOUSE TOULOUSM;5
+Tours;47.3861;0.6676;37;24;Centre-Val de Loire;Zone B;TOURS;9
+Troyes;48.29;4.0676;10;44;Grand Est;Zone B;TROYES;7
+Valence;44.9333;4.8921;26;84;Auvergne-Rhône-Alpes;Zone A;VALENCE;16
+Vichy;46.1233;3.4351;03;84;Auvergne-Rhône-Alpes;Zone A;VICHY;9
